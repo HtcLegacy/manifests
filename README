@@ -6,7 +6,7 @@ LegacyXperiaAOSP Project platform manifests
 
 Just do
 
-$ repo init -u https://github.com/LegacyXperiaAOSP/manifests.git -b lollipop
+$ repo init -u https://github.com/HtcLegacy/manifests.git -b lollipop
 
 then
 
