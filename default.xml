@@ -409,9 +409,8 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" />
   
   <!-- extras-->
-  <include name="legacyxperia.xml" />
+  <include name="htclegacy.xml" />
   <include name="legacyxperiaaosp.xml" />
   <include name="cm.xml" />
   
 </manifest>
-  
